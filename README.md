@@ -1,2 +1,2 @@
 # Funny_Calculator
-Calculator with an OLED screen
+Calculator with an OLED screen to help you pass your exams. :)
